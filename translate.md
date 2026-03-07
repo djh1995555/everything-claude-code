@@ -1,0 +1,4 @@
+帮我翻译如下文件，并将翻译好的文件按照原有格式放在新建的translate文件夹中
+commands文件夹下的所有md文件
+翻译完成后需要检查对比文件数量和结构是否匹配
+分析@translate/commands目录下的md文件，总结输出形成md形式的表格,放在@translate/commands下
